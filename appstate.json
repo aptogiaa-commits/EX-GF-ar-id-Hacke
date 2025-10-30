@@ -1,1 +1,65 @@
-এখানে আপনার ফেসবুক আইডির কুকি বসান ✅
+[
+    {
+        "key": "datr",
+        "value": "ngwDaQfOoW8sgKpCOiL_phWt",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-30T07:02:35.649Z",
+        "lastAccessed": "2025-10-30T07:02:35.650Z"
+    },
+    {
+        "key": "sb",
+        "value": "ngwDaQ6J7Oso2KyK9uH72a62",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-30T07:02:35.650Z",
+        "lastAccessed": "2025-10-30T07:02:35.650Z"
+    },
+    {
+        "key": "wd",
+        "value": "1920x945",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-30T07:02:35.650Z",
+        "lastAccessed": "2025-10-30T07:02:35.650Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61577998843756",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-30T07:02:35.650Z",
+        "lastAccessed": "2025-10-30T07:02:35.650Z"
+    },
+    {
+        "key": "fr",
+        "value": "0jRYDUwXrPDELNnpu.AWexXfoPPe-bIHQWBcXaqVfvsxmbCBC_vQ34SW_zkL3TLUWRRvQ.BpAwye..AAA.0.0.BpAwzI.AWeDxaxykxLlDVYih9mAKPmRzrA",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-30T07:02:35.650Z",
+        "lastAccessed": "2025-10-30T07:02:35.650Z"
+    },
+    {
+        "key": "xs",
+        "value": "11%3AuekPaPYlkB9gtQ%3A2%3A1761807562%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-30T07:02:35.650Z",
+        "lastAccessed": "2025-10-30T07:02:35.650Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1761807597329%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-30T07:02:35.650Z",
+        "lastAccessed": "2025-10-30T07:02:35.650Z"
+    }
+]
